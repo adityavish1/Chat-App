@@ -1,5 +1,5 @@
 Live
-https://chat-leo8.onrender.com/
+https://chat-app-lah2.onrender.com/
 
 ### Setup .env file
 
